@@ -1,0 +1,14 @@
+h2, h1, h3, h4 {
+    color: rgb(183, 218, 32);
+    font-family: Comic Sans MS;
+}
+.box {
+        border: 1px solid;
+}
+.desain-layout {
+    width: 210px;
+    background-color: rgb(188, 54, 221);
+}
+img {
+    width: 200px;
+}
